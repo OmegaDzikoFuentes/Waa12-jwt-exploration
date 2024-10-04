@@ -162,3 +162,4 @@ be decoded by anyone if they have access to it. For that reason, sensitive
 information should never be transmitted in a JWT.
 
 [`jsonwebtoken`]: https://www.npmjs.com/package/jsonwebtoken
+# Waa12-jwt-exploration
